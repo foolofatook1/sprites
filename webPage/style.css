@@ -5,7 +5,14 @@ body {
 }
 h1 {
     color: chartreuse;
+    text-align: center;
 }
 p {
    color: chartreuse;
+   text-align: center;
 }
+
+h2 {
+    color: chartreuse;
+}
+
